@@ -3,4 +3,5 @@ function totalcartvalue(...number){
     return sum
 }
 let ans = totalcartvalue(120,122,323,213)
-console.log(ans)
+console.log(ans);
+console.log(ans);
